@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\DevMEdia.exe
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\DevMEdia.deps.json
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\DevMEdia.runtimeconfig.json
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\DevMEdia.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\DevMEdia.dll
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\ref\DevMEdia.dll
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\bin\Debug\net5.0\DevMEdia.pdb
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.AssemblyInfo.cs
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.dll
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\ref\DevMEdia.dll
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.pdb
+C:\Users\mauri\source\repos\DevMEdia\Program\DevMEdia\obj\Debug\net5.0\DevMEdia.genruntimeconfig.cache
