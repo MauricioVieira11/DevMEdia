@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\bin\Debug\ArtigoPOO.exe.config
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\bin\Debug\ArtigoPOO.exe
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\bin\Debug\ArtigoPOO.pdb
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.Properties.Resources.resources
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.exe
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.pdb
+C:\Users\mauri\source\repos\DevMEdia\ArtigoPOO\ArtigoPOO\obj\Debug\ArtigoPOO.Form1.resources
